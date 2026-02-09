@@ -47,6 +47,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 
 ### Commercial / Managed
 
+- [Boomi](https://boomi.com/) - Modern data integration and agent management platform.
 - [Fivetran](https://www.fivetran.com/) - Automated data integration with 500+ connectors. Industry leader in managed ELT.
 - [Stitch](https://www.stitchdata.com/) - Simple, extensible ETL built for developers. Part of Talend.
 - [Hevo Data](https://hevodata.com/) - No-code data pipeline platform.
@@ -310,6 +311,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 
 ### Change Data Capture (CDC)
 
+- [Boomi Data Integration](https://boomi.com/platform/boomi-data-integration/) - Automated CDC for operational databases and apps.
 - [Debezium](https://debezium.io/) - Open-source distributed CDC platform.
 - [Airbyte CDC](https://airbyte.com/connectors?category=cdc) - CDC connectors in Airbyte.
 - [Fivetran CDC](https://www.fivetran.com/solutions/change-data-capture) - Managed CDC by Fivetran.
