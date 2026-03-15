@@ -32,6 +32,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Community](#community)
 
 ---
+- [querybear.com](https://querybear.com) - Ask your data anything – with persistent memory, schema learning, and more.
 
 ## Data Integration & Ingestion
 
