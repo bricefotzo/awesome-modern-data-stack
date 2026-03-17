@@ -175,6 +175,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Great Expectations](https://greatexpectations.io/) - Python library for data validation and documentation.
 - [dbt Tests](https://docs.getdbt.com/docs/build/tests) - Built-in testing framework in dbt.
 - [Elementary](https://www.elementary-data.com/) - Open-source data observability for dbt.
+- [Provero](https://github.com/provero-org/provero) - Vendor-neutral, declarative data quality engine with YAML-based checks.
 
 
 ### Commercial / Managed
