@@ -237,6 +237,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Lightdash](https://www.lightdash.com/) - Open-source BI for dbt users.
 - [Evidence](https://evidence.dev/) - Code-based BI with Markdown and SQL.
 - [Grafana](https://grafana.com/) - Open-source analytics and monitoring platform.
+- [stratif.io](https://stratif.io) - Open-source warehouse-native product analytics for DuckDB, Postgres, Snowflake, and ClickHouse.
 
 ### Commercial / Managed
 
