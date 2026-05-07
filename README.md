@@ -457,6 +457,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Joe Reis's Substack](https://joereis.substack.com/) - Insights on data engineering.
 - [dbt Blog](https://www.getdbt.com/blog/) - Articles on analytics engineering.
 - [Airbyte Blog](https://airbyte.com/blog) - Data integration and engineering content.
+- [DataStackGuide](https://datastackguide.com) - Independent reviews of B2B data stack tools (CRMs, enrichment, BI, sales engagement) backed by analysis of 23,000+ job postings.
 
 ### Podcasts
 
