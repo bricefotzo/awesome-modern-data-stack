@@ -273,6 +273,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Census](https://www.getcensus.com/) - Operational analytics platform for syncing data to business tools.
 - [Hightouch](https://hightouch.com/) - Data activation platform for reverse ETL.
 - [Polytomic](https://www.polytomic.com/) - Sync data bidirectionally between databases and SaaS.
+- [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; turns PostHog product-usage data + CRM into scored buying signals and activates them into the CRM. Self-hostable (OSS alternative to Pocus / Common Room).
 
 ---
 
