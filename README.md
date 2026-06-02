@@ -222,6 +222,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 
 - [Collibra](https://www.collibra.com/) - Comprehensive data governance platform.
 - [Alation](https://www.alation.com/) - Data catalog with governance capabilities.
+- [OneQuery](https://onequery.dev/) - Self-hosted gateway for safe, auditable queries for agents across approved data sources.
 
 ---
 
