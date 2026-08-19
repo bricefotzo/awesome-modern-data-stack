@@ -154,6 +154,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Kestra](https://kestra.io/) - Event-driven orchestration platform with declarative YAML.
 - [Luigi](https://github.com/spotify/luigi) - Python module for building complex pipelines (by Spotify).
 - [Argo Workflows](https://argoproj.github.io/argo-workflows/) - Kubernetes-native workflow engine.
+- [Bruin](https://github.com/bruin-data/bruin) - CLI combining ingestion, SQL and Python transformations, and data quality checks.
 
 ### Commercial / Managed
 
@@ -238,6 +239,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Evidence](https://evidence.dev/) - Code-based BI with Markdown and SQL.
 - [Grafana](https://grafana.com/) - Open-source analytics and monitoring platform.
 - [stratif.io](https://stratif.io) - Open-source warehouse-native product analytics for DuckDB, Postgres, Snowflake, and ClickHouse.
+- [DAC](https://github.com/bruin-data/dac) - Dashboard-as-code tool using YAML and TSX with a built-in semantic layer.
 
 ### Commercial / Managed
 
