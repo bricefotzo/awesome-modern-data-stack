@@ -16,6 +16,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Data Catalog & Discovery](#data-catalog--discovery)
 - [Data Governance](#data-governance)
 - [Business Intelligence & Analytics](#business-intelligence--analytics)
+- [AI Analytics Agents](#ai-analytics-agents)
 - [Metrics Layer & Semantic Layer](#metrics-layer--semantic-layer)
 - [Reverse ETL](#reverse-etl)
 - [Data Contracts](#data-contracts)
@@ -249,6 +250,29 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Omni](https://omni.co/) - Shared-model BI platform.
 - [Holistics](https://www.holistics.io/) - Self-service BI platform with data modeling.
 
+
+---
+
+## AI Analytics Agents
+
+*Tools that answer business questions over the warehouse in natural language, and the benchmarks that measure them.*
+
+### Agents
+
+- [Databricks Genie](https://www.databricks.com/product/genie) - Conversational analytics over Unity Catalog data.
+- [Hex](https://hex.tech) - Notebook platform with an agentic analyst that writes and runs analyses.
+- [Lightdash AI](https://www.lightdash.com) - AI analyst for dbt-defined metrics.
+- [nao](https://getnao.io) - Data IDE with an agent that queries the warehouse directly.
+- [Snowflake Cortex](https://www.snowflake.com/en/product/features/cortex/) - Warehouse-native text-to-SQL and analytics agents over a semantic model.
+- [Supersimple](https://supersimple.io) - Self-service analytics with an agent over a modelled semantic layer.
+- [TextQL](https://textql.com) - Text-to-SQL agent over an ontology layer.
+
+### Benchmarks
+
+- [Benchouse](https://benchouse.ai/benchmark) - Independent benchmark ranking analytics agent products on the same 300 warehouse questions.
+- [ClickHouse Agentic Analytics Benchmark](https://clickhouse.com/blog/agentic-analytics-benchmark-data-agent-mnist) - 201 production analytics questions across 28 models, with an open harness.
+- [dbt ADE-bench](https://docs.getdbt.com/blog/building-a-better-data-agent-benchmark) - Analytical tasks set in realistic dbt projects with macros and broken joins.
+- [Hex DataBench](https://hex.tech/databench/) - About 100 analytical tasks comparing model configurations inside one product.
 
 ---
 
