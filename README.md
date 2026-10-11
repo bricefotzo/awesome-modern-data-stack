@@ -45,6 +45,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Singer](https://www.singer.io/) - Open-source standard for writing scripts that move data (taps and targets).
 - [Meltano](https://meltano.com/) - Open-source DataOps platform built on Singer. CLI-first, version-controlled pipelines.
 - [Ingestr](https://github.com/bruin-data/ingestr) - CLI tool to copy data between databases with a single command.
+- [OLake](https://github.com/datazip-inc/olake) - Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.
 
 ### Commercial / Managed
 
