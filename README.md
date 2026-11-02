@@ -183,6 +183,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 
 - [Soda](https://www.soda.io/) - Data quality platform with SodaCL language.
 - [Monte Carlo](https://www.montecarlodata.com/) - Data observability platform with ML-powered anomaly detection.
+- [SQL Data Checks](https://www.arcodash.com/tools/sql-data-checks/) - Free online generator of freshness, row count, null and duplicate check queries.
 
 ---
 
