@@ -183,6 +183,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 
 - [Soda](https://www.soda.io/) - Data quality platform with SodaCL language.
 - [Monte Carlo](https://www.montecarlodata.com/) - Data observability platform with ML-powered anomaly detection.
+- [digna](https://www.digna.ai/) - AI data quality and observability platform that runs inside your own database, on-premises or in private cloud.
 
 ---
 
