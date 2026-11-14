@@ -345,6 +345,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Zeppelin](https://zeppelin.apache.org/) - Web-based notebook for data analytics.
 - [Marimo](https://marimo.io/) - Reactive Python notebook with reproducibility.
 - [Streamlit](https://streamlit.io/) - Python framework for data apps.
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and toolbox that runs in the browser.
 
 ### Commercial / Managed
 
