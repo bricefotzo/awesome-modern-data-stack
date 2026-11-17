@@ -318,6 +318,7 @@ The **Modern Data Stack** refers to a collection of cloud-native tools and techn
 - [Debezium](https://debezium.io/) - Open-source distributed CDC platform.
 - [Airbyte CDC](https://airbyte.com/connectors?category=cdc) - CDC connectors in Airbyte.
 - [Fivetran CDC](https://www.fivetran.com/solutions/change-data-capture) - Managed CDC by Fivetran.
+- [OLake](https://github.com/datazip-inc/olake-go) - Open-source CDC from databases, Kafka and S3 into Apache Iceberg or Parquet.
 
 ---
 
